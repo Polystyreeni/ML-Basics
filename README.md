@@ -1,2 +1,4 @@
 # ML-Basics
-Small programming tasks made during a basics of ML course.
+Some small Python exercises that were made during a course "Introduction to Pattern Recognition and Machine Learning".
+
+
